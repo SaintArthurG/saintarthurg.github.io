@@ -15,8 +15,11 @@
         header {
             background: #333;
             color: #fff;
-            padding: 1rem 0;
+            padding: 0.5rem 1rem;
             text-align: center;
+            border-radius: 12px;
+            max-width: 800px;
+            margin: 1rem auto;
         }
         main {
             max-width: 800px;
