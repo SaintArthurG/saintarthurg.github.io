@@ -82,15 +82,15 @@
         <section>
             <h2>Projetos Recentes</h2>
             <ul>
-                <li><strong>Agenda para cabeleireiros:</strong> Uma aplicação de gerenciamento de agendamento usando AWS e Spring Boot.</li>
-                <li><strong>Cardápio digital:</strong> Interface interativa desenvolvida com React e CSS Modules.</li>
-                <li><strong>Site de restaurante:</strong> Sistema de pedidos com React, Vite, Axios e Sequelize, integrando autenticação e banco de dados MySQL.</li>
+                <li><strong>Agenda para cabeleireiros:</strong> Uma aplicação de gerenciamento de agendamento usando MySQL e Spring Boot.</li>
+                <li><strong>Cardápio digital:</strong> Interface interativa desenvolvida com React e CSS Modules.<a href="https://github.com/SaintArthurG/Card-pio-digital" target="_blank">Ver no GitHub</a></li>
+                <li><strong>API CEP em Java:</strong> Consulta de um CEP atraves de uma API. <a href="https://github.com/SaintArthurG/API_CEP" target="_blank">Ver no GitHub</a></li>
             </ul>
         </section>
         <section>
             <h2>Contato</h2>
             <p><a href="https://www.linkedin.com/in/arthur-godoy-56a986221/" target="_blank">LinkedIn</a></p>
-	    <p><a href="test.html" target="_blank">LinkedIn</a></p>
+	    <p><a href="test.html" target="_blank">Projetos</a></p>
             <p>Email: <a href="mailto:arthur.godoy@a.ucb.br">arthur.godoy@a.ucb.br</a></p>
         </section>
     </main>
