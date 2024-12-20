@@ -69,8 +69,8 @@
         </section>
         <section>
             <h2>Contato</h2>
-            <p>LinkedIn: <a href="#" target="_blank">Seu Perfil</a></p>
-            <p>Email: <a href="mailto:arthur@example.com">arthur@example.com</a></p>
+            <p>LinkedIn: <a href="https://www.linkedin.com/in/arthur-godoy-56a986221/" target="_blank">Perfil</a></p>
+            <p>Email: <a href="mailto:arthur.godoy@a.ucb.br">arthur.godoy@a.ucb.br</a></p>
         </section>
     </main>
     <footer>
