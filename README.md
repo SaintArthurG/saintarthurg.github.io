@@ -50,8 +50,10 @@
     </header>
     <main>
         <section>
-            <h2>Sobre Mim</h2>
-            <p>Sou formado em Análise e Desenvolvimento de Sistemas e possuo certificação SCRUM pela SCRUMStudy. Desde antes da faculdade, utilizo Linux e me dedico a aprimorar minhas habilidades como desenvolvedor.</p>
+           <h2>Sobre Mim</h2>
+            <p>Sou um desenvolvedor apaixonado por tecnologia e inovação, formado em Análise e Desenvolvimento de Sistemas. Durante minha trajetória, adquiri conhecimentos sólidos em linguagens de programação, como Java e Javascript, e em metodologias ágeis, sendo certificado SCRUM pela SCRUMStudy. </p>
+            <p>Minha experiência inclui o uso de ferramentas e tecnologias como Linux, além de React, Spring Boot, e bancos de dados como MySQL. Sou autodidata e sempre busco aprimorar minhas habilidades, focando em criar soluções eficientes e de alto impacto.</p>
+            <p>Com um olhar atento para design e funcionalidade, tenho trabalhado em projetos que unem tecnologia e experiência do usuário, contribuindo para o desenvolvimento de interfaces modernas e sistemas robustos.</p>
         </section>
         <section>
             <h2>Interesses</h2>
