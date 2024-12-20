@@ -90,6 +90,7 @@
         <section>
             <h2>Contato</h2>
             <p><a href="https://www.linkedin.com/in/arthur-godoy-56a986221/" target="_blank">LinkedIn</a></p>
+	    <p><a href="test.html" target="_blank">LinkedIn</a></p>
             <p>Email: <a href="mailto:arthur.godoy@a.ucb.br">arthur.godoy@a.ucb.br</a></p>
         </section>
     </main>
