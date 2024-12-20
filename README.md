@@ -41,6 +41,14 @@
             font-size: 0.9rem;
             color: #666;
         }
+        .character {
+    		position: absolute;
+    width: 50px;
+    height: 50px;
+    background-color: #3498db; /* Cor do boneco */
+    border-radius: 50%; /* Deixa o boneco redondo */
+    transition: transform 0.3s ease; /* Suaviza o movimento */
+	}
     </style>
 </head>
 <body>
@@ -50,6 +58,7 @@
     </header>
     <main>
         <section>
+            <div class="character" id="character"></div>
            <h2>Sobre Mim</h2>
             <p>Sou um desenvolvedor apaixonado por tecnologia e inovação, formado em Análise e Desenvolvimento de Sistemas. Durante minha trajetória, adquiri conhecimentos sólidos em linguagens de programação, como Java e Javascript, e em metodologias ágeis, sendo certificado SCRUM pela SCRUMStudy. </p>
             <p>Minha experiência inclui o uso de ferramentas e tecnologias como Linux, além de React, Spring Boot, e bancos de dados como MySQL. Sou autodidata e sempre busco aprimorar minhas habilidades, focando em criar soluções eficientes e de alto impacto.</p>
@@ -81,5 +90,19 @@
     <footer>
         <p>&copy; 2024 Arthur Godoy. Todos os direitos reservados.</p>
     </footer>
+    <script>
+        const character = document.getElementById('character');
+        function positionCharacter() {
+            const randomX = Math.random() * (window.innerWidth - 50);
+            const randomY = Math.random() * (window.innerHeight - 50);
+            character.style.left = `${randomX}px`;
+            character.style.top = `${randomY}px`;
+        }
+
+        positionCharacter();
+        character.addEventListener('mouseenter', () => {
+            positionCharacter(); // Mover o boneco para uma nova posição
+        });
+	</script>
 </body>
 </html>
