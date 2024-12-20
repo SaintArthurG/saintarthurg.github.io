@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
@@ -43,7 +42,7 @@
 </head>
 <body>
     <header>
-        <h1>Arthur Godoy</h1>
+        <h1 style='color: #fff'>Arthur Godoy</h1>
         <p>Analista e Desenvolvedor de Sistemas | Desenvolvedor Web</p>
     </header>
     <main>
@@ -69,7 +68,7 @@
         </section>
         <section>
             <h2>Contato</h2>
-            <p>LinkedIn: <a href="https://www.linkedin.com/in/arthur-godoy-56a986221/" target="_blank">Perfil</a></p>
+            <p><a href="https://www.linkedin.com/in/arthur-godoy-56a986221/" target="_blank">LinkedIn</a></p>
             <p>Email: <a href="mailto:arthur.godoy@a.ucb.br">arthur.godoy@a.ucb.br</a></p>
         </section>
     </main>
