@@ -45,9 +45,9 @@
     		position: absolute;
     width: 50px;
     height: 50px;
-    background-color: #3498db; /* Cor do boneco */
-    border-radius: 50%; /* Deixa o boneco redondo */
-    transition: transform 0.3s ease; /* Suaviza o movimento */
+    background-color: #3498db; 
+    border-radius: 50%; 
+    transition: transform 0.3s ease; 
 	}
     </style>
 </head>
@@ -101,7 +101,7 @@
 
         positionCharacter();
         character.addEventListener('mouseenter', () => {
-            positionCharacter(); // Mover o boneco para uma nova posição
+            positionCharacter();
         });
 	</script>
 </body>
