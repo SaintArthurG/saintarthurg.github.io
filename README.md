@@ -42,12 +42,18 @@
             color: #666;
         }
         .character {
-    		position: absolute;
-    width: 50px;
-    height: 50px;
-    background-color: #3498db; 
-    border-radius: 50%; 
-    transition: transform 0.3s ease; 
+	    position: absolute;
+	    width: 40px;
+	    height: 40px;
+	    background-color: #3498db;
+	    border-radius: 50%;
+	    display: flex;
+	    justify-content: center;
+	    align-items: center;
+	    color: white;
+	    font-size: 20px;
+	    font-weight: bold;
+	    transition: transform 0.3s ease;
 	}
     </style>
 </head>
@@ -58,7 +64,7 @@
     </header>
     <main>
         <section>
-            <div class="character" id="character"></div>
+            <div class="character" id="character">A</div>
            <h2>Sobre Mim</h2>
             <p>Sou um desenvolvedor apaixonado por tecnologia e inovação, formado em Análise e Desenvolvimento de Sistemas. Durante minha trajetória, adquiri conhecimentos sólidos em linguagens de programação, como Java e Javascript, e em metodologias ágeis, sendo certificado SCRUM pela SCRUMStudy. </p>
             <p>Minha experiência inclui o uso de ferramentas e tecnologias como Linux, além de React, Spring Boot, e bancos de dados como MySQL. Sou autodidata e sempre busco aprimorar minhas habilidades, focando em criar soluções eficientes e de alto impacto.</p>
