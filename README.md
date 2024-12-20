@@ -109,6 +109,11 @@
         character.addEventListener('mouseenter', () => {
             positionCharacter();
         });
+
+ 	character.addEventListener('touchstart', (event) => {
+    		positionCharacter();
+    		event.preventDefault();
+	});
 	</script>
 </body>
 </html>
