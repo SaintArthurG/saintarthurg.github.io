@@ -59,7 +59,7 @@
 </head>
 <body>
     <header>
-        <h1 style='color: #fff'>Arthur Godoy TESTE7JAN</h1>
+        <h1 style='color: #fff'>Arthur Godoy</h1>
         <p>Analista e Desenvolvedor de Sistemas | Desenvolvedor Web</p>
     </header>
     <main>
