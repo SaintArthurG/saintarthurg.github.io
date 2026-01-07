@@ -59,7 +59,7 @@
 </head>
 <body>
     <header>
-        <h1 style='color: #fff'>Arthur Godoy</h1>
+        <h1 style='color: #fff'>Arthur Godoy TESTE7JAN</h1>
         <p>Analista e Desenvolvedor de Sistemas | Desenvolvedor Web</p>
     </header>
     <main>
@@ -94,7 +94,7 @@
         </section>
     </main>
     <footer>
-        <p>&copy; 2024 Arthur Godoy. Todos os direitos reservados.</p>
+        <p>© 2024 Arthur Godoy. Todos os direitos reservados.</p>
     </footer>
     <script>
         const character = document.getElementById('character');
@@ -105,15 +105,15 @@
             character.style.top = `${randomY}px`;
         }
 
-        positionCharacter();
+    positionCharacter();
         character.addEventListener('mouseenter', () => {
             positionCharacter();
         });
 
- 	character.addEventListener('touchstart', (event) => {
+    character.addEventListener('touchstart', (event) => {
     		positionCharacter();
     		event.preventDefault();
-	});
-	</script>
+	});`</script>`
+
 </body>
 </html>
