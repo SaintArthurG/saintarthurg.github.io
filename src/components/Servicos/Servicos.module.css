@@ -1,0 +1,21 @@
+.servicos {
+  padding: 4rem 1.5rem;
+  text-align: center;
+}
+
+.servicos h2 {
+  color: #b71c1c;
+  margin-bottom: 2rem;
+}
+
+.servicos ul {
+  list-style: none;
+  max-width: 600px;
+  margin: auto;
+}
+
+.servicos li {
+  padding: 0.8rem 0;
+  font-size: 1.05rem;
+  color: #444;
+}

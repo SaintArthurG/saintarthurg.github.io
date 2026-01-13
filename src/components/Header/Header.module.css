@@ -1,0 +1,9 @@
+.header {
+  width: 100%;
+  padding: 2.5rem 1rem;
+  background: #b71c1c;
+  color: white;
+  text-align: center;
+  font-weight: 600;
+  font-size: 1rem;
+}
