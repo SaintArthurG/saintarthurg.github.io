@@ -10,7 +10,7 @@ export default function Hero() {
           <p>De todos os falhos, sou o pior deles</p>
           <br />
           <p>
-            Enquanto me houver folêgo, estarei proclamando o nome do Senhor em toda Tua criação
+            Hoje viverei
           </p>
           <br />
 
