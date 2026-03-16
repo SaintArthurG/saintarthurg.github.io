@@ -36,7 +36,7 @@ export default function Hero() {
 
         <div className={styles.photo}>
           <img
-            src={`${import.meta.env.BASE_URL}teste.png`}
+            src={`${import.meta.env.BASE_URL}art.jpg`}
             alt="Arthur Godoy – Desenvolvedor"
           />
         </div>
